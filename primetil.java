@@ -1,5 +1,4 @@
-
-    class primetil100 {
+class primetil {
     public static void main(String[] args) {
 
         for (int n = 2; n <= 100; n++) {
